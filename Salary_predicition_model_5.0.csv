@@ -1,0 +1,39 @@
+Index_number,Age,Gender,Education Level,Job Title,Years of Experience,Actual Salary,Predicted Salary,Error
+5,29.0,Male,Bachelor's,Marketing Analyst,2.0,55000.0,40000.0,15000.0
+21,47.0,Male,Master's,VP of Operations,19.0,190000.0,169550.0,20450.0
+32,29.0,Male,Master's,Data Scientist,3.0,75000.0,65100.0,9900.0
+37,42.0,Male,Master's,Project Engineer,14.0,115000.0,129000.0,14000.0
+56,27.0,Female,Master's,UX Researcher,2.0,65000.0,43150.0,21850.0
+58,30.0,Female,Bachelor's,Social Media Manager,4.0,55000.0,49200.0,5800.0
+65,38.0,Female,Master's,Digital Marketing Manager,10.0,90000.0,111750.0,21750.0
+66,46.0,Male,Bachelor's,IT Manager,19.0,120000.0,124400.0,4400.0
+81,41.0,Female,Master's,Data Analyst,13.0,80000.0,121900.0,41900.0
+84,29.0,Female,Bachelor's,Junior Designer,2.0,40000.0,40000.0,0.0
+89,31.0,Female,Bachelor's,Marketing Coordinator,6.0,55000.0,77333.33333333333,22333.33333333333
+98,38.0,Female,Master's,Public Relations Manager,10.0,90000.0,111750.0,21750.0
+107,36.0,Male,Bachelor's,IT Support Specialist,7.0,60000.0,89600.0,29600.0
+108,41.0,Female,Master's,Senior Marketing Analyst,14.0,100000.0,121500.0,21500.0
+115,31.0,Male,Master's,Senior Financial Analyst,6.0,95000.0,94250.0,750.0
+125,26.0,Male,Bachelor's,Junior Accountant,2.0,40000.0,38800.0,1200.0
+150,29.0,Female,Bachelor's,Junior Recruiter,3.0,45000.0,46150.0,1150.0
+172,,,,,,,104634.87202380958,
+177,31.0,Male,Bachelor's,Junior Accountant,4.0,50000.0,53550.0,3550.0
+200,49.0,Female,Master's,Director of Human Capital,21.0,180000.0,180000.0,0.0
+228,37.0,Male,Master's,Senior Software Architect,9.0,120000.0,101050.0,18950.0
+245,36.0,Male,Bachelor's,Senior Operations Manager,8.0,95000.0,96350.0,1350.0
+251,38.0,Male,Master's,Senior IT Consultant,9.0,110000.0,110750.0,750.0
+257,35.0,Male,Bachelor's,Senior Project Coordinator,9.0,95000.0,95600.0,600.0
+266,36.0,Male,Bachelor's,Senior Marketing Specialist,8.0,95000.0,93200.0,1800.0
+284,35.0,Male,Bachelor's,Senior Financial Manager,9.0,100000.0,100650.0,650.0
+286,33.0,Male,Bachelor's,Junior Business Analyst,4.0,60000.0,60000.0,0.0
+290,38.0,Female,Bachelor's,Senior Business Analyst,10.0,110000.0,110200.0,200.0
+292,29.0,Female,Bachelor's,Junior Marketing Specialist,2.0,40000.0,40000.0,0.0
+309,47.0,Male,Master's,Director of Marketing,19.0,170000.0,170200.0,200.0
+329,48.0,Male,Master's,Director of Marketing,21.0,180000.0,176450.0,3550.0
+334,36.0,Female,Bachelor's,Senior Marketing Manager,8.0,95000.0,91150.0,3850.0
+350,44.0,Female,PhD,Senior Data Scientist,16.0,160000.0,157900.0,2100.0
+351,31.0,Male,Bachelor's,Junior Marketing Coordinator,3.0,55000.0,51300.0,3700.0
+353,48.0,Male,Master's,Director of Marketing,21.0,180000.0,176450.0,3550.0
+354,31.0,Female,Bachelor's,Junior Business Development Associate,3.0,50000.0,49250.0,750.0
+364,35.0,Female,Bachelor's,Senior Financial Manager,8.0,90000.0,87950.0,2050.0
+370,35.0,Female,Bachelor's,Senior Marketing Analyst,8.0,85000.0,85000.0,0.0
